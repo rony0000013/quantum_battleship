@@ -2,7 +2,7 @@
 
 An innovative twist on the classic Battleship game that leverages quantum computing concepts to detect ships using quantum circuits and Grover's search algorithm.
 
-![Demo](Quantum_battleship_Demo.mp4)
+<video src="Quantum_battleship_Demo.mp4" controls></video>
 
 ## 🚀 Features
 
